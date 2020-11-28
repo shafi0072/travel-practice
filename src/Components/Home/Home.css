@@ -1,0 +1,7 @@
+.Home{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.335), rgba(0, 0, 0, 0.616)), url(../../fakeData/Images/Rectangle1.png);
+    height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
